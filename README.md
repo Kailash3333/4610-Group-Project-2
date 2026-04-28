@@ -5,6 +5,7 @@ Team Members:
 - Evelyn Merchant: @evelynjmerch
 - Divesh Gupta: @legendile7
 - Faraaz Masum: @farawaymasum-png
+- Kailash Konisetty: @Kailash3333
 
 
 ## Dataset Description
